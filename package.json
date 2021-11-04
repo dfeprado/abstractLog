@@ -1,0 +1,34 @@
+{
+  "name": "abstract_log",
+  "version": "1.0.0",
+  "description": "Defines a simple interface for logging",
+  "main": "./lib/main.js",
+  "types": "./lib/main.d.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfeprado/abstractLog.git"
+  },
+  "keywords": [
+    "log",
+    "abstract",
+    "log",
+    "file",
+    "logging"
+  ],
+  "author": "Daniel Prado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfeprado/abstractLog/issues"
+  },
+  "homepage": "https://github.com/dfeprado/abstractLog#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.6",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  }
+}
