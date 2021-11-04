@@ -1,9 +1,9 @@
 {
-  "name": "abstract_log",
-  "version": "1.0.0",
+  "name": "@dfeprado/abstract_log",
+  "version": "1.0.1",
   "description": "Defines a simple interface for logging",
-  "main": "./lib/main.js",
-  "types": "./lib/main.d.js",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.js",
   "scripts": {
     "test": "jest"
   },
